@@ -483,11 +483,8 @@ def evo(path, entry, lang, age_i, age_f):
     evolex = pd.DataFrame(columns=list(lex.columns))
     # Iterate over all entries
     for index, series in lex.iterrows():
-        # Get parameters
-        entry = series['Orthography']
-        age_i = series['Age']
         # Get evolved word
-        new = evolver(series['Orthography'], age_i, age_f, lang=lang)
+        new = evolver(series['Orthography'], series['Age'], age_f, lang=lang)
         # Get IPA
         ipa_new = trans_ipa(new, lang)
         # Create entry
@@ -496,7 +493,7 @@ def evo(path, entry, lang, age_i, age_f):
             'IPA' : ipa_new,                                        # Evolved IPA
             'Stress' : find_stress(ipa_new, lang),                  # Stress
             'Hláhu' : series['Hláhu'],                              # Hláhu (NG not included)
-            'Age' : int(age_i),                                     # Final age
+            'Age' : int(series['Age']),                                     # Final age
             'Class' : series['Class'],                              # Class
             'Description' : series['Description'],                  # Description
             'OG Ortho' : series['Orthography'],                     # Original orthography
@@ -507,7 +504,7 @@ def evo(path, entry, lang, age_i, age_f):
         evolex = evolex.append(ne, ignore_index=True)
     # Save evolved lexicon
     if entry == 'all':
-        evolex.to_csv(path_dic['EVO'], sep='\t', index=False)
+        evolex.to_csv(path_dic['EVO'], sep=';', index=False)
     # Print result
     pd.set_option('display.max_rows', 999)
     print(evolex)
