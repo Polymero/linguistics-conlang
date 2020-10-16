@@ -154,6 +154,7 @@ def find_stress(ipa, lang='IS', age=0):
 
 def evolver(entry, age_i, age_f, lang='IS'):
     '''RETURNS EVOLVED ENTRY'''
+    word = entry
     # Phoneme groups
     pgS = 'aeoui'                   # short vowels
     pgL = 'áéóí'                    # long vowels (and /i/)
@@ -348,7 +349,7 @@ def evolver(entry, age_i, age_f, lang='IS'):
     else:
         raise ValueError('Evolution path not recognised.')
     # Return evolved entry
-    return evo
+    return word
 
 
 #-------------------------------------------------------------------------------
@@ -433,7 +434,13 @@ def lst(path, axis, search, ran_num):
     if ran_num > 0:
         plex = lex.sample(n=int(ran_num))
     # Print resulting DataFrame
-    print(plex.sort_values('Orthography'))
+    if path in [path_dic['IS'], path_dic['EVO']]:
+        print(plex.sort_values('Orthography'))
+    elif path == path_dic['FAU']:
+        print(plex.sort_values('Name'))
+    # Raise error if language code not recognised
+    else:
+        raise ValueError('Evolution path not recognised.')
 
 
 def upd(path):
@@ -489,7 +496,7 @@ def evo(path, entry, lang, age_i, age_f):
             'IPA' : ipa_new,                                        # Evolved IPA
             'Stress' : find_stress(ipa_new, lang),                  # Stress
             'Hláhu' : series['Hláhu'],                              # Hláhu (NG not included)
-            'Age' : int(age_f),                                     # Final age
+            'Age' : int(age_i),                                     # Final age
             'Class' : series['Class'],                              # Class
             'Description' : series['Description'],                  # Description
             'OG Ortho' : series['Orthography'],                     # Original orthography
