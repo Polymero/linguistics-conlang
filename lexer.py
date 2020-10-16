@@ -15,7 +15,7 @@ path_dic = {
     # Language lexicons
     'IS' : r'C:\Users\Nika\Python\linguistics-conlang\data\iskeelis.csv',
     # Evolved lexicon
-    'EVO' : r'C:\Users\Nika\Python\linguistics-conlang\data\evolved.csv',
+    'EVO' : r'C:\Users\Nika\Python\linguistics-conlang\data\evolved.tsv',
     # Hláhu/Fauja lexicon
     'FAU' : r'C:\Users\Nika\Python\linguistics-conlang\data\hlaahu.csv'
 }
@@ -504,7 +504,7 @@ def evo(path, entry, lang, age_i, age_f):
         evolex = evolex.append(ne, ignore_index=True)
     # Save evolved lexicon
     if entry == 'all':
-        evolex.to_csv(path_dic['EVO'], sep=';', index=False)
+        evolex.to_csv(path_dic['EVO'], sep='\t', index=False)
     # Print result
     pd.set_option('display.max_rows', 999)
     print(evolex)
