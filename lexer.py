@@ -13,11 +13,11 @@ rcParams.update({'figure.autolayout': True})
 # Path Dictionary
 path_dic = {
     # Language lexicons
-    'IS' : r'C:\Users\Nika\Python\linguistics-conlang\data\iskeelis.csv',
+    'IS' : r'C:\Users\Nika\Python\linguistics-conlang\data\iskeelis.tsv',
     # Evolved lexicon
     'EVO' : r'C:\Users\Nika\Python\linguistics-conlang\data\evolved.tsv',
     # Hláhu/Fauja lexicon
-    'FAU' : r'C:\Users\Nika\Python\linguistics-conlang\data\hlaahu.csv'
+    'FAU' : r'C:\Users\Nika\Python\linguistics-conlang\data\hlaahu.tsv'
 }
 
 # Suppress FutureWarning
