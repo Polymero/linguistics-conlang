@@ -317,7 +317,7 @@ def evolver(entry, age_i, age_f, lang='IS'):
                             word = word[:i] + 'g' + word[i+1:]
         # AGE 4
         if (age_i <= 4 and age_f >= 4):
-            # 4.1 Spirantisation of word initial /p/ before short vowels
+            # 4.1 Spirantisation of word initial /p/ before short vowels and liquids
             if (word[0] == 'p' and word[1] in pgS+pgLiq):
                 word = 'f' + word[1:]
             # 4.2 Loss of word-final short vowels
