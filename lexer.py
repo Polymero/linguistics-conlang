@@ -13,11 +13,11 @@ rcParams.update({'figure.autolayout': True})
 # Path Dictionary
 path_dic = {
     # Language lexicons
-    'IS' : r'C:\Users\Nika\Python\linguistics-conlang\data\iskeelis.tsv',
+    'IS' : r'.\data\iskeelis.tsv',
     # Evolved lexicon
-    'EVO' : r'C:\Users\Nika\Python\linguistics-conlang\data\evolved.tsv',
+    'EVO' : r'.\data\evolved.tsv',
     # Hláhu/Fauja lexicon
-    'FAU' : r'C:\Users\Nika\Python\linguistics-conlang\data\hlaahu.tsv'
+    'FAU' : r'.\data\hlaahu.tsv'
 }
 
 # Suppress FutureWarning
@@ -390,7 +390,7 @@ def add(path, entry):
             'Nerlé' : sylls[0],
             'Óle' : ', '.join(sylls[1:]),
             'Description' : desc,
-            'NG' : int(ngstat)
+            'NG' : str(bool(ngstat))
         }
 
     # Add entry to lexicon
@@ -493,7 +493,7 @@ def evo(path, entry, lang, age_i, age_f):
             'IPA' : ipa_new,                                        # Evolved IPA
             'Stress' : find_stress(ipa_new, lang),                  # Stress
             'Hláhu' : series['Hláhu'],                              # Hláhu (NG not included)
-            'Age' : int(series['Age']),                                     # Final age
+            'Age' : int(series['Age']),                             # Final age
             'Class' : series['Class'],                              # Class
             'Description' : series['Description'],                  # Description
             'OG Ortho' : series['Orthography'],                     # Original orthography

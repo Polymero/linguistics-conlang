@@ -1,9 +1,33 @@
 # Imports
 import numpy as np
 import pandas as pd
+import argparse
+
+# Initialise Parser
+parser = argparse.ArgumentParser(description='Proto-Language Lexicon')
+# Mode Parameters
+parser.add_argument('type', type=str, action='store', metavar='action mode',
+                    help='Please see README.md or github.com/Polymero/linguistics-conlang for help.')
+# Return 'help' information if parsing not succesful
+try:
+    args = parser.parse_args()
+except TypeError:
+    parser.print_help()
+# Parser variables
+type    = args.type
 
 # Import lexicon.csv using Pandas
-lex = pd.read_csv('./data/fauja.csv',delimiter='\t')
+lex = pd.read_csv('./data/hlaahu.tsv',delimiter='\t')
+
+# For OG or NG Hláhu
+if type == 'OG':
+    lex = lex[lex['NG'] == False]
+elif type == 'NG':
+    lex = lex[lex['NG'] == True]
+else:
+    raise ValueError('Type not recognised, please use OG or NG.')
+
+print(lex)
 
 # Sort on Orthography
 lexsrt = lex.sort_values('Name')
