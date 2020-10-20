@@ -178,7 +178,7 @@ en.ga	ɛŋ.ga	-2	enká	0	n	Public building	True	ɛŋ.kaː	en.ká
 en.gai	ɛŋ.gaɪ	-2	enkáhi	0	n	Central bazaar	True	ɛŋ.kaː.hɪ	en.ká.hi
 er.tós	ɛɾ.tɔːs	-1	ertósa	0	n	to Read, to Observe	True	ɛɾ.tɔː.sa	er.tó.sa
 fau	faʊ	-1	pahhu	0	v	to Intend	True	pah.hu	pah.hu
-njus	nʲus	-1	ní, hus	0	n	(strong) Directed wind	True	ni.hus	ní.hus
+njus	nʲus	-1	ní, hus	0	n	(strong) Directed wind, gust of wind	True	ni.hus	ní.hus
 as.po	as.pɔ	-2	as, póxot	0	n	Foot	True	as.pɔː	as.pó
 iv.im.me	ɪv.ɪm.mɛ	-2	ip, immé	0	n	Egg	True	ɪp.ɪm.mɛː	ip.im.mé
 an.á.ra	an.aː.ɾa	-2	ankómi, hára	0	n	Rain	True	aŋ.haː.ɾa	an.há.ra
@@ -190,3 +190,36 @@ fas.á.ra	fas.aː.ɾa	-2	paskí, hára	0	n	Ice	True	pas.haː.ɾa	pas.há.ra
 kom.il	kɔm.ɪl	-2	komil	0	v	to Cry	False	kɔm.ɪl	kom.il
 má.njo	maː.nʲɔ	-2	man, kjó	0	itg	Why, what for	True	maː.nʲɔː	má.njó
 hlan.do	ɬan.dɔ	-2	hlantó	0	v	to Bite	True	ɬan.tɔː	hlan.tó
+hlós	ɬɔːs	-1	hlósa	0	v	to Heal	True	ɬɔː.sa	hló.sa
+ní.shíq	ni.ʃiɣ	-1	ní, síka	0	n	Directed light, ray of light	True	ni.si.ka	ní.sí.ka
+xín.í.dhas	xin.i.ðas	-2	xíni, ítas	0	n	Group (of people)	True	xin.i.tas	xín.í.tas
+hló.xín	ɬɔː.xin	-1	hlósa, xíni	0	n	Doctor, healer	True	ɬɔː.xi.nɪ	hló.xí.ni
+mó.hló.xín	mɔː.ɬɔː.xin	-1	mó, hlósa, xíni	0	n	Dentist	True	mɔː.ɬɔː.xi.nɪ	mó.hló.xí.ni
+hló.é.qá.lis	ɬɔː.ɛː.ɣaː.lɪs	-2	hlósa, ékális	0	n	Medicinal fruit	True	ɬɔː.ɛː.kaː.lɪs	hló.é.ká.lis
+hló.lé.qat	ɬɔː.lɛː.ɣat	-2	hlósa, lékat	0	n	Medicine	True	ɬɔː.lɛː.kat	hló.lé.kat
+swal.man	sʋal.man	-2	suhalman	0	n	House	True	su.hal.man	su.hal.man
+bá	baː	-1	pá	0	n	Word	True	paː	pá
+su.hla	su.ɬa	-2	suhalman, hlá	0	n	Home	True	su.ɬaː	su.hlá
+man.ge	maŋ.gɛ	-2	man, ké	0	par	Because of	True	maŋ.kɛː	man.ké
+mó.jat	mɔː.jat	-2	mó, jattló	0	v	to Chew, to Bite off	False	mɔː.jat	mó.jat
+flu.mi	flu.mɪ	-2	plumí	0	v	to Fear	True	plu.mi	plu.mí
+bá.jat	baː.jat	-2	pá, jattló	0	v	to Say	True	paː.jat	pá.jat
+lí.shat	li.ʃat	-2	lissa, jattló	0	v	to Lick, to Lie	True	lɪs.jat	lis.jat
+wó.chá.ri	ʋɔː.tʃaː.ɾɪ	-2	wóhi, tjári	0	n	Today	True	ʋɔː.tʲaː.ɾɪ	wó.tjá.ri
+wó.chá.ni	ʋɔː.tʃaː.nɪ	-2	wóhi, tjári, ní	0	exp	Good day	True	ʋɔː.tʲaː.ni	wó.tjá.ní
+us.tlóx	us.tɬɔːx	-1	hus, tlóxi	0	v	to Forget	True	hus.tɬɔː.xɪ	hus.tló.xi
+tló.voi	tɬɔː.vɔɪ	-2	tlóxi, póhi	0	v	to Remember	True	tɬɔː.pɔː.hɪ	tló.pó.hi
+nas.chi	nas.tʃɪ	-2	naskí	0	n	Leaf	True	nas.ki	nas.kí
+á.ri	aː.ɾɪ	-2	ári	0	v	to Breathe	False	aː.ɾɪ	á.ri
+í.dhas	i.ðas	-2	ítas	0	par	Together, As one, Unity particle	True	i.tas	í.tas
+xai.mun.dai	xaɪ.mun.daɪ	-2	xáhi, mun, táhi	0	exp	Thank you	True	xaː.hɪ.mun.taː.hɪ	xá.hi.mun.tá.hi
+ol	ɔl	-1	ol	0	par	And (exhaustive)	False	ɔl	ol
+roi	ɾɔɪ	-1	róhi	0	par	Or (exhaustive)	True	ɾɔː.hɪ	ró.hi
+ten.djá.ri	tɛn.dʲaː.ɾɪ	-2	tentlé, tjári	0	n	Monday	True	tɛn.tʲaː.ɾɪ	ten.tjá.ri
+ut.chá.ri	ut.tʃaː.ɾɪ	-2	ukwó, tjári	0	n	Tuesday	True	uk.tʲaː.ɾɪ	uk.tjá.ri
+á.chá.ri	aː.tʃaː.ɾɪ	-2	hára, tjári	0	n	Wednesday	True	haː.tʲaː.ɾɪ	há.tjá.ri
+tó.chá.ri	tɔː.tʃaː.ɾɪ	-2	tóle, tjári	0	n	Thursday	True	tɔː.tʲaː.ɾɪ	tó.tjá.ri
+tar.chá.ri	taɾ.tʃaː.ɾɪ	-2	tarríhlu, tjári	0	n	Friday	True	taɾ.tʲaː.ɾɪ	tar.tjá.ri
+su.chá.ri	su.tʃaː.ɾɪ	-2	sukal, tjári	0	n	Saturday	True	su.tʲaː.ɾɪ	su.tjá.ri
+í.chá.ri	i.tʃaː.ɾɪ	-2	ísin, tjári	0	n	Sunday	True	i.tʲaː.ɾɪ	í.tjá.ri
+nó	nɔː	-1	nó	0	par	Means and method particle	False	nɔː	nó

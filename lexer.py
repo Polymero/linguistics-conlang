@@ -362,7 +362,7 @@ def add(path, entry):
     except:
         raise ValueError('Error loading CSV.')
 
-    if path == isk_path:
+    if path == path_dic["IS"]:
         # Split entry parameter
         ortho, fauja, age, type, desc = entry.split(':')
         # Get IPA
@@ -378,7 +378,7 @@ def add(path, entry):
             'Description' : desc
         }
 
-    elif path == fau_path:
+    elif path == path_dic["FAU"]:
         # Split entry parameter
         number, namedot, desc, ngstat = ocd.split(':')
         # Get syllables
@@ -395,7 +395,7 @@ def add(path, entry):
 
     # Add entry to lexicon
     lex = lex.append(ne, ignore_index=True)
-    lex.to_csv(lex_path, sep='\t', index=False)
+    lex.to_csv(path, sep='\t', index=False)
     # Succes message
     print('\nSuccesfully logged the following entry:')
     print(pd.Series(ne))
