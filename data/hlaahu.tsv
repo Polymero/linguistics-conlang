@@ -1,149 +1,183 @@
 NO.	Name	Nerlé	Óle	Description	Evo. Name	Evo. Nerle	Evo. Ól	NG
-1	paskí	pas	kí	stone	faschi	fas	chi	False
-3	xuluk	xu	luk	command	xuluk	xu	luk	False
-4	sóli	só	li	zero, 0	zól	zól	 	False
-6	préma	pré	ma	be the same	frém	frém	 	False
-7	léhi	lé	hi	be different	lei	lei	 	False
-8	óri	ó	ri	two, 2	óri	ó	ri	False
-9	wóhi	wó	hi	now, moment in time	woi	woi	 	False
-10	sépalhí	sé	pal, hí	clothes	zévali	zé	val, i	False
-11	pensá	pen	sá	happen, occur	fenza	fen	za	False
-12	santí	san	tí	three, 3	sandi	san	di	False
-13	tostir	tos	tir	be of number, count	toschir	tos	chir	False
-14	tláhi	tlá	hi	eight, 8	tlai	tlai	 	False
-15	jéhal	jé	hal	die, end	jégal	jé	gal	False
-16	hlá	hlá	 	place, location, spot	hlá	hlá	 	False
-17	sépo	sé	po	eye	zév	zév	 	False
-18	lími	lí	mi	tree bark, skin (informal)	lím	lím	 	False
-19	sélep	sé	lep	ear, side-entrance	zélep	zé	lep	False
-20	tó	tó	 	you (plural)	tó	tó	 	False
-21	póhi	pó	hi	hold, grasp	poi	poi	 	False
-22	tahhu	tah	hu	they	tau	tau	 	False
-23	lekkem	lek	kem	nose, front-entrance decoration	lekkem	lek	kem	False
-24	nésa	né	sa	be born, start	nés	nés	 	False
-25	ré	ré	 	you (singular)	ré	ré	 	False
-26	tlensol	tlen	sol	sleep	tlensol	tlen	sol	False
-27	issí	is	sí	we	isshi	is	shi	False
-28	ítli	í	tli	flower	ítli	í	tli	False
-29	xentu	xen	tu	I	xendu	xen	du	False
-30	nar	nar	 	mouth, front-entrance	nar	nar	 	False
-31	sé	sé	 	heart	zé	zé	 	False
-35	usmí	us	mí	seven, 7	usmi	us	mi	False
-36	lissá	lis	sá	tongue	lissa	lis	sa	False
-37	jó	jó	 	question particle, ?	jó	jó	 	False
-38	hátje	há	tje	under, beneath	áche	á	che	False
-40	tílo	tí	lo	above, on top of	chíl	chíl	 	False
-41	kal	kal	 	far, distant	kal	kal	 	False
-42	ná	ná	 	encouragement particle, !	ná	ná	 	False
-43	xupí	xu	pí	neck	xuvi	xu	vi	False
-44	su	su	 	close, near	su	su	 	False
-45	éki	é	ki	small, little	éq	éq	 	False
-46	njes	njes	 	piece, part	njes	njes	 	False
-47	rákuhl	rá	kuhl	shadow	ráquhl	rá	quhl	False
-48	rínu	rí	nu	money, currency	rín	rín	 	False
-52	pé	pé	 	path	pé	pé	 	False
-53	ója	ó	ja	many, lots	ój	ój	 	False
-55	mah	mah	 	large, big	ma	ma	 	False
-56	táhu	tá	hu	arm, tree branch	tau	tau	 	False
-60	makpó	mak	pó	hide something, conceal	mappo	map	po	False
-62	hlé	hlé	 	give	hlé	hlé	 	False
-68	sá	sá	 	be in state of	zá	zá	 	False
-70	ohráte	oh	rá, te	teach	orádhe	o	rá, dhe	False
-72	tlé	tlé	 	come	tlé	tlé	 	False
-74	tóle	tó	le	tree	tól	tól	 	False
-76	uspó	us	pó	back, basis, foundation	uspo	us	po	False
-77	hax	hax	 	throat	ax	ax	 	False
-78	áhi	á	hi	go, move	ai	ai	 	False
-79	ankómi	an	kó, mi	sky	angóm	an	góm	False
-80	pannil	pan	nil	non-royal	fannil	fan	nil	False
-81	póxot	pó	xot	hand - make, create (concrete)	póxot	pó	xot	False
-82	tonnu	ton	nu	household/family member	tonnu	ton	nu	False
-83	tlóxi	tló	xi	thought, idea	tlóx	tlóx	 	False
-84	ekpónal	ek	pó, nal	understand	eppónal	ep	pó, nal	False
-85	ertá	er	tá	see, look at	erta	er	ta	False
-87	hára	há	ra	water	ára	á	ra	False
-88	kjó	kjó	 	he, she, it	kjó	kjó	 	False
-89	hus	hus	 	wind	us	us	 	False
-90	ip	ip	 	(domesticated) animal	ip	ip	 	False
-91	ítlása	í	tlá, sa	city, capital (Mjetta)	ítlás	í	tlás	False
-92	immé	im	mé	seed	imme	im	me	False
-93	ísin	í	sin	sun	íshin	í	shin	False
-94	jáhuweskí	já	hu, wes, kí	star	jauweschi	jau	wes, chi	False
-95	kanutor	kan	u, tor	mountain	kanudhor	kan	u, dhor	False
-96	síka	sí	ka	light	shíq	shíq	 	False
-97	kerxí	ker	xí	wait, stand still	cherxi	cher	xi	False
-98	kinlé	kin	lé	permit, allow	chinle	chin	le	False
-99	ké	ké	 	of, from	ché	ché	 	False
-100	kjutí	kju	tí	five, 5	kjudhi	kju	dhi	False
-101	lotwé	lot	wé	tree crown, head (informal)	lotwe	lot	we	False
-102	jattló	jat	tló	create, make (abstract)	jattlo	jat	tlo	False
-103	mun	mun	 	thousand, 1000	mun	mun	 	False
-104	mutas	mu	tas	trade	mudhas	mu	dhas	False
-105	nertí	ner	tí	one, 1	nerchi	ner	chi	False
-106	ní	ní	 	direction	ní	ní	 	False
-107	niksó	nik	só	market stall, shop	nikzo	nik	zo	False
-108	njippá	njip	pá	cat	njippa	njip	pa	False
-109	óhi	ó	hi	ten, 10	oi	oi	 	False
-110	pastíhi	pas	tí, hi	grow, arise, get up	faschi	fas	chi	False
-111	ransó	ran	só	artificial, man-made	ranzo	ran	zo	False
-112	ruwan	ru	wan	book, study	ruwan	ru	wan	False
-113	sukal	su	kal	soil	suqal	su	qal	False
-114	soltu	sol	tu	emptiness	soltu	sol	tu	False
-115	tarríhlu	tar	rí, hlu	metal	tarríhlu	tar	rí, hlu	False
-116	tassí	tas	sí	feeling, emotion	tasshi	tas	shi	False
-117	tuháni	tu	há, ni	six, 6	twán	twán	 	False
-118	ukí	u	kí	nine, 9	uqi	u	qi	False
-120	wéron	wé	ron	woman, girl	wéron	wé	ron	False
-121	wessal	wes	sal	man, boy	wessal	wes	sal	False
-122	xáhi	xá	hi	sand	xai	xai	 	False
-123	xíni	xí	ni	person, human	xín	xín	 	False
-124	sjut	sjut	 	sit down	shut	shut	 	False
-125	olpí	ol	pí	four, 4	olpi	ol	pi	False
-149	as	as	 	tree root, leg	as	as	 	False
-150	kómil	kó	mil	move, go	kómil	kó	mil	False
-151	put	put	 	spit	fut	fut	 	False
-152	tentlé	ten	tlé	moon	tendle	ten	dle	False
-156	juk	juk	 	from	xuk	xuk	 	False
-161	sóra	só	ra	laugh, smile	zóra	zó	ra	False
-162	ukwó	uk	wó	fire	ukwo	uk	wo	False
-169	ris	ris	 	feather	ris	ris	 	False
-172	pakkel	pak	kel	dog	fakkel	fak	kel	False
-173	sáru	sá	ru	rope	záru	zá	ru	False
-176	mótja	mó	tja	night	mócha	mó	cha	False
-177	tjári	tjá	ri	day	chári	chá	ri	False
-178	kóham	kó	ham	old	kóam	kó	am	False
-180	pel	pel	 	sea	fel	fel	 	False
-183	sentar	sen	tar	hear,listen to	sendar	sen	dar	False
-184	panné	pan	né	warm, hot	fanne	fan	ne	False
-186	komil	kom	il	cry	komil	kom	il	False
-188	mó	mó	 	tooth	mó	mó	 	False
-189	ríma	rí	ma	black	rím	rím	 	False
-190	ékális	é	ká, lis	fruit	éqális	é	qá, lis	False
-191	kírel	kí	rel	forest	chírel	chí	rel	False
-192	hlantó	hlan	tó	bite	hlando	hlan	do	False
-193	táhi	tá	hi	(general) counter	tai	tai	 	False
-195	aktlu	ak	tlu	hit	attlu	at	tlu	False
-196	hípéna	hí	pé, na	kill	ívén	í	vén	False
-199	lékat	lé	kat	eat	léqat	lé	qat	False
-200	sil	sil	 	tail	shil	shil	 	False
-201	sípol	sí	pol	left	shívol	shí	vol	False
-202	enká	en	ká	public building	enga	en	ga	False
-203	pjel	pjel	 	door (soft material, often cloth or feathers)	fjel	fjel	 	False
-204	ertósa	er	tó, sa	read, observe	ertós	er	tós	False
-205	uhó	u	hó	white	wó	wó	 	False
-206	sólot	só	lot	run, go quickly	zólot	zó	lot	False
-207	míxin	mí	xin	fish	míxin	mí	xin	False
-208	jíme	jí	me	right	xím	xím	 	False
-209	íta	í	ta	bird	ídha	í	dha	False
-210	emjut	em	jut	animal footprints	emxut	em	xut	False
-211	krópi	kró	pi	cold	króv	króv	 	False
-212	antan	an	tan	lie down	andan	an	dan	False
-213	imet	im	et	bad	imet	im	et	False
-214	xímes	xí	mes	fat	xímes	xí	mes	False
-215	suntá	sun	tá	fall	sunda	sun	da	False
-216	káhi	ká	hi	turn	kai	kai	 	False
-217	sanpé	san	pé	dry	sambe	sam	be	False
-194	humí	hu	mí	sharp	umi	u	mi	False
-34	tjenné	tjen	né	want	chenne	chen	ne	False
-75	pahhu	pah	hu	intend	fau	fau	 	False
-119	ítas	í	tas	together, as one, unity particle	ídhas	í	dhas	False
+1	paskí	pas	kí	stone	faschi	fas	chi	
+3	xuluk	xu	luk	command	xuluk	xu	luk	
+4	sóli	só	li	zero, 0	zól	zól		
+6	préma	pré	ma	be the same	frém	frém		
+7	léhi	lé	hi	be different	lei	lei		
+8	óri	ó	ri	two, 2	óri	ó	ri	
+9	wóhi	wó	hi	now, moment in time	woi	woi		
+10	sépalhí	sé	pal, hí	clothes	zévali	zé	val, i	
+11	pensá	pen	sá	happen, occur	fenza	fen	za	
+12	santí	san	tí	three, 3	sandi	san	di	
+13	tostir	tos	tir	be of number, count	toschir	tos	chir	
+14	tláhi	tlá	hi	eight, 8	tlai	tlai		
+15	jéhal	jé	hal	die, end	jégal	jé	gal	
+16	hlá	hlá	 	place, location, spot	hlá	hlá		
+17	sépo	sé	po	eye	zév	zév		
+18	lími	lí	mi	tree bark, skin (informal)	lím	lím		
+19	sélep	sé	lep	ear, side-entrance	zélep	zé	lep	
+20	tó	tó	 	you (plural)	tó	tó		
+21	póhi	pó	hi	hold, grasp	poi	poi		
+22	tahhu	tah	hu	they	tau	tau		
+23	lekkem	lek	kem	nose, front-entrance decoration	lekkem	lek	kem	
+24	nésa	né	sa	be born, start	nés	nés		
+25	ré	ré	 	you (singular)	ré	ré		
+26	tlensol	tlen	sol	sleep	tlensol	tlen	sol	
+27	issí	is	sí	we	isshi	is	shi	
+28	ítli	í	tli	flower	ítli	í	tli	
+29	xentu	xen	tu	I	xendu	xen	du	
+30	nar	nar	 	mouth, front-entrance	nar	nar		
+31	sé	sé	 	heart	zé	zé		
+35	usmí	us	mí	seven, 7	usmi	us	mi	
+36	lissá	lis	sá	tongue	lissa	lis	sa	
+37	jó	jó	 	question particle, ?	jó	jó		
+38	hátje	há	tje	under, beneath	áche	á	che	
+40	tílo	tí	lo	above, on top of	chíl	chíl		
+41	kal	kal	 	far, distant	kal	kal		
+42	ná	ná	 	encouragement particle, !	ná	ná		
+43	xupí	xu	pí	neck	xuvi	xu	vi	
+44	su	su	 	close, near	su	su		
+45	éki	é	ki	small, little	éq	éq		
+46	njes	njes	 	piece, part	njes	njes		
+47	rákuhl	rá	kuhl	shadow	ráquhl	rá	quhl	
+48	rínu	rí	nu	money, currency	rín	rín		
+52	pé	pé	 	path	pé	pé		
+53	ója	ó	ja	many, lots	ój	ój		
+55	mah	mah	 	large, big	ma	ma		
+56	táhu	tá	hu	arm, tree branch	tau	tau		
+60	makpó	mak	pó	hide something, conceal	mappo	map	po	
+62	hlé	hlé	 	give	hlé	hlé		
+68	sá	sá	 	be in state of	zá	zá		
+70	ohráte	oh	rá, te	teach	orádhe	o	rá, dhe	
+72	tlé	tlé	 	come	tlé	tlé		
+74	tóle	tó	le	tree	tól	tól		
+76	uspó	us	pó	back, basis, foundation	uspo	us	po	
+77	hax	hax	 	throat	ax	ax		
+78	áhi	á	hi	go, move	ai	ai		
+79	ankómi	an	kó, mi	sky	angóm	an	góm	
+80	pannil	pan	nil	non-royal	fannil	fan	nil	
+81	póxot	pó	xot	hand - make, create (concrete)	póxot	pó	xot	
+82	tonnu	ton	nu	household/family member	tonnu	ton	nu	
+83	tlóxi	tló	xi	thought, idea	tlóx	tlóx		
+84	ekpónal	ek	pó, nal	understand	eppónal	ep	pó, nal	
+85	ertá	er	tá	see, look at	erta	er	ta	
+87	hára	há	ra	water	ára	á	ra	
+88	kjó	kjó	 	he, she, it	kjó	kjó		
+89	hus	hus	 	wind	us	us		
+90	ip	ip	 	(domesticated) animal	ip	ip		
+91	ítlása	í	tlá, sa	city, capital (Mjetta)	ítlás	í	tlás	
+92	immé	im	mé	seed	imme	im	me	
+93	ísin	í	sin	sun	íshin	í	shin	
+94	jáhuweskí	já	hu, wes, kí	star	jauweschi	jau	wes, chi	
+95	kanutor	kan	u, tor	mountain	kanudhor	kan	u, dhor	
+96	síka	sí	ka	light	shíq	shíq		
+97	kerxí	ker	xí	wait, stand still	cherxi	cher	xi	
+98	kinlé	kin	lé	permit, allow	chinle	chin	le	
+99	ké	ké	 	of, from	ché	ché		
+100	kjutí	kju	tí	five, 5	kjudhi	kju	dhi	
+101	lotwé	lot	wé	tree crown, head (informal)	lotwe	lot	we	
+102	jattló	jat	tló	create, make (abstract)	jattlo	jat	tlo	
+103	mun	mun	 	thousand, 1000	mun	mun		
+104	mutas	mu	tas	trade	mudhas	mu	dhas	
+105	nertí	ner	tí	one, 1	nerchi	ner	chi	
+106	ní	ní	 	direction	ní	ní		
+107	niksó	nik	só	market stall, shop	nikzo	nik	zo	
+108	njippá	njip	pá	cat	njippa	njip	pa	
+109	óhi	ó	hi	ten, 10	oi	oi		
+110	pastíhi	pas	tí, hi	grow, arise, get up	faschi	fas	chi	
+111	ransó	ran	só	artificial, man-made	ranzo	ran	zo	
+112	ruwan	ru	wan	book, study	ruwan	ru	wan	
+113	sukal	su	kal	soil	suqal	su	qal	
+114	soltu	sol	tu	emptiness	soltu	sol	tu	
+115	tarríhlu	tar	rí, hlu	metal	tarríhlu	tar	rí, hlu	
+116	tassí	tas	sí	feeling, emotion	tasshi	tas	shi	
+117	tuháni	tu	há, ni	six, 6	twán	twán		
+118	ukí	u	kí	nine, 9	uqi	u	qi	
+120	wéron	wé	ron	woman, girl	wéron	wé	ron	
+121	wessal	wes	sal	man, boy	wessal	wes	sal	
+122	xáhi	xá	hi	sand	xai	xai		
+123	xíni	xí	ni	person, human	xín	xín		
+124	sjut	sjut	 	sit down	shut	shut		
+125	olpí	ol	pí	four, 4	olpi	ol	pi	
+149	as	as	 	tree root, leg	as	as		
+150	kómil	kó	mil	move, go	kómil	kó	mil	
+151	put	put	 	spit	fut	fut		
+152	tentlé	ten	tlé	moon	tendle	ten	dle	
+156	juk	juk	 	from	xuk	xuk		
+161	sóra	só	ra	laugh, smile	zóra	zó	ra	
+162	ukwó	uk	wó	fire	ukwo	uk	wo	
+169	ris	ris	 	feather	ris	ris		
+172	pakkel	pak	kel	dog	fakkel	fak	kel	
+173	sáru	sá	ru	rope	záru	zá	ru	
+176	mótja	mó	tja	night	mócha	mó	cha	
+177	tjári	tjá	ri	day	chári	chá	ri	
+178	kóham	kó	ham	old	kóam	kó	am	
+180	pel	pel	 	sea	fel	fel		
+183	sentar	sen	tar	hear,listen to	sendar	sen	dar	
+184	panné	pan	né	warm, hot	fanne	fan	ne	
+186	komil	kom	il	cry	komil	kom	il	
+188	mó	mó	 	tooth	mó	mó		
+189	ríma	rí	ma	black	rím	rím		
+190	ékális	é	ká, lis	fruit	éqális	é	qá, lis	
+191	kírel	kí	rel	forest	chírel	chí	rel	
+192	hlantó	hlan	tó	bite	hlando	hlan	do	
+193	táhi	tá	hi	(general) counter	tai	tai		
+195	aktlu	ak	tlu	hit	attlu	at	tlu	
+196	hípéna	hí	pé, na	kill	ívén	í	vén	
+199	lékat	lé	kat	eat	léqat	lé	qat	
+200	sil	sil	 	tail	shil	shil		
+201	sípol	sí	pol	left	shívol	shí	vol	
+202	enká	en	ká	public building	enga	en	ga	
+203	pjel	pjel	 	door (soft material, often cloth or feathers)	fjel	fjel		
+204	ertósa	er	tó, sa	read, observe	ertós	er	tós	
+205	uhó	u	hó	white	wó	wó		
+206	sólot	só	lot	run, go quickly	zólot	zó	lot	
+207	míxin	mí	xin	fish	míxin	mí	xin	
+208	jíme	jí	me	right	xím	xím		
+209	íta	í	ta	bird	ídha	í	dha	
+210	emjut	em	jut	animal footprints	emxut	em	xut	
+211	krópi	kró	pi	cold	króv	króv		
+212	antan	an	tan	lie down	andan	an	dan	
+213	imet	im	et	bad	imet	im	et	
+214	xímes	xí	mes	fat	xímes	xí	mes	
+215	suntá	sun	tá	fall	sunda	sun	da	
+216	káhi	ká	hi	turn	kai	kai		
+217	sanpé	san	pé	dry	sambe	sam	be	
+194	humí	hu	mí	sharp	umi	u	mi	
+34	tjenné	tjen	né	want	chenne	chen	ne	
+75	pahhu	pah	hu	intend	fau	fau		
+119	ítas	í	tas	together, as one, unity particle	ídhas	í	dhas	
+246	nó	nó	 	Means and method particle	nó	nó		
+153	ol	ol	 	And (exhaustive)	ol	ol		
+51	róhi	ró	hi	Or (exhaustive)	roi	roi		
+247	naskí	nas	kí	leaf, page	naschi	nas	chi	
+253	ári	á	ri	to Breathe	ári	á	ri	
+238	hlósa	hló	sa	to Heal	hlós	hlós		
+218	suhalman	su	hal, man	House	swalman	swal	man	
+226	pá	pá	 	Word	bá	bá		
+251	plumí	plu	mí	to Fear	flumi	flu	mi	
+255	nerké	ner	ké	This	nerche	ner	che	nertí, ké
+256	óké	ó	ké	That	óqe	ó	qe	óri, ké
+270	hákó	há	kó	to Swim	áqo	á	qo	hára, kómil
+271	ankó	an	kó	to Fly	ango	an	go	ankómi, kómil
+272	sukó	su	kó	to Dig	suqo	su	qo	sukal, kómil
+240	pájat	pá	jat	to Say	bájat	bá	jat	pá, jattló
+274	nerhlá	ner	hlá	Here	nerhla	ner	hla	nertí, hlá
+275	óhlá	ó	hlá	There	óhla	ó	hla	óri, hlá
+264	hlóxíni	hló	xí, ni	Doctor	hlóxín	hló	xín	hlósa, xíni
+263	manké	man	ké	Because of	mange	man	ge	man, ké
+273	suhlá	su	hlá	Home	suhla	su	hla	suhalman, hlá
+262	níhus	ní	hus	Directed wind	njus	njus	 	ní, hus
+252	háhus	há	hus	River	aus	aus	 	hára, hus
+269	anhára	an	há, ra	Rain	anára	an	á, ra	ankómi, hára
+268	anlotwé	an	lot, wé	Cloud	anlotwe	an	lot, we	ankómi, lotwé
+265	nernertí	ner	ner, tí	Eleven, 11	nernerchi	ner	ner, chi	nertí, nertí
+266	neróri	ner	ó, ri	Twelve, 12	neróri	ner	ó, ri	nertí, óri
+267	xínítas	xín	í, tas	Group	xínídhas	xín	í, dhas	xíni, ítas
+174	man	man	 	Reason	man	man		
+241	xenké	xen	ké	My, mine	xenge	xen	ge	xentu, ké
+242	réké	ré	ké	Your, yours (singular)	réqe	ré	qe	ré, ké
+243	iské	is	ké	Our, ours	ische	is	che	issí, ké
+244	tóké	tó	ké	Your, youtrs (plural)	tóqe	tó	qe	tó, ké
+245	tahhuké	tah	hu, ké	Their, theirs	tauqe	tau	qe	 tahhu, ké
+170	kjóké	kjó	ké	His, her, its	kjóqe	kjó	qe	kjó, ké

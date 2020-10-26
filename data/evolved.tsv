@@ -223,3 +223,19 @@ tar.chá.ri	taɾ.tʃaː.ɾɪ	-2	tarríhlu, tjári	0	n	Friday	True	taɾ.tʲaː.ɾ
 su.chá.ri	su.tʃaː.ɾɪ	-2	sukal, tjári	0	n	Saturday	True	su.tʲaː.ɾɪ	su.tjá.ri
 í.chá.ri	i.tʃaː.ɾɪ	-2	ísin, tjári	0	n	Sunday	True	i.tʲaː.ɾɪ	í.tjá.ri
 nó	nɔː	-1	nó	0	par	Means and method particle	False	nɔː	nó
+bó.qó.mil	bɔː.ɣɔː.mɪl	-2	póhi, kómil	0	v	to Take with, to Carry	True	pɔː.kɔː.mɪl	pó.kó.mil
+bó.tle	bɔː.tɬɛ	-2	póhi, tlé	0	v	to Bring	True	pɔː.tɬɛː	pó.tlé
+míq	miɣ	-1	míku	0	adj	Simple	True	mi.ku	mí.ku
+sem.bat	sɛm.bat	-2	senpat	0	adj	Complete	True	sɛn.pat	sen.pat
+ten.ner.tai	tɛn.nɛɾ.taɪ	-2	tentlé, nertí, táhi	0	n	Januari	True	tɛn.nɛɾ.taː.hɪ	ten.ner.tá.hi
+ten.ó.dhai	tɛn.ɔː.ðaɪ	-2	tentlé, óri, táhi	0	n	February	True	tɛn.ɔː.taː.hɪ	ten.ó.tá.hi
+ten.san.dai	tɛn.san.daɪ	-2	tentlé, santí, táhi	0	n	March	True	tɛn.san.taː.hɪ	ten.san.tá.hi
+ten.ol.tai	tɛn.ɔl.taɪ	-2	tentlé, olpí, táhi	0	n	April	True	tɛn.ɔl.taː.hɪ	ten.ol.tá.hi
+ten.gju.dhai	tɛŋ.gʲu.ðaɪ	-2	tentlé, kjutí, táhi	0	n	May	True	tɛŋ.kʲu.taː.hɪ	ten.kju.tá.hi
+ten.du.dhai	tɛn.du.ðaɪ	-2	tentlé, tuháni, táhi	0	n	June	True	tɛn.tu.taː.hɪ	ten.tu.tá.hi
+ten.us.tai	tɛn.us.taɪ	-2	tentlé, usmí, táhi	0	n	July	True	tɛn.us.taː.hɪ	ten.us.tá.hi
+ten.dlá.dhai	tɛn.dlaː.ðaɪ	-2	tentlé, tláhi, táhi	0	n	August	True	tɛn.tɬaː.taː.hɪ	ten.tlá.tá.hi
+ten.u.dhai	tɛn.u.ðaɪ	-2	tentlé, ukí, táhi	0	n	September	True	tɛn.u.taː.hɪ	ten.u.tá.hi
+ten.oi.dhai	tɛn.ɔɪ.ðaɪ	-2	tentlé, óhi, táhi	0	n	October	True	tɛn.ɔː.hɪ.taː.hɪ	ten.ó.hi.tá.hi
+ten.ner.ner.tai	tɛn.nɛɾ.nɛɾ.taɪ	-2	tentlé, nertí, nertí, táhi	0	n	November	True	tɛn.nɛɾ.nɛɾ.taː.hɪ	ten.ner.ner.tá.hi
+ten.ner.ó.dhai	tɛn.nɛɾ.ɔː.ðaɪ	-2	tentlé, nertí, óri, táhi	0	n	December	True	tɛn.nɛɾ.ɔː.taː.hɪ	ten.ner.ó.tá.hi

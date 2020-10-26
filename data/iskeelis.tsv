@@ -17,7 +17,7 @@ né.sa	nɛː.sa	-2	nésa	0	v	to Be born (-> to start)
 ek.pó.nal	ɛk.pɔː.nal	-2	ekpónal	0	v	to Know
 pó.hi	pɔː.hɪ	-2	póhi	0	v	to Hold
 xu.luk	xu.luk	-2	xuluk	0	v	to Command
-njes	nʲɛs	-1	njes	0	n	Piece, part
+njes	nʲɛs	-1	njes	0	n	Piece, part (detachable)
 tló.xi	tɬɔː.xɪ	-2	tlóxi	0	v	to Think
 hlá	ɬaː	-1	hlá	0	n	Place, location
 tos.tir	tɔs.tɪɾ	-2	tostir	0	v	to Be of number
@@ -223,3 +223,21 @@ tar.tjá.ri	taɾ.tʲaː.ɾɪ	-2	tarríhlu, tjári	0	n	Friday
 su.tjá.ri	su.tʲaː.ɾɪ	-2	sukal, tjári	0	n	Saturday
 í.tjá.ri	i.tʲaː.ɾɪ	-2	ísin, tjári	0	n	Sunday
 nó	nɔː	-1	nó	0	par	Means and method particle
+pó.kó.mil	pɔː.kɔː.mɪl	-2	póhi, kómil	0	v	to Take with, to Carry
+pó.tlé	pɔː.tɬɛː	-1	póhi, tlé	0	v	to Bring
+mí.ku	mi.ku	-2	míku	0	adj	Simple
+sen.pat	sɛn.pat	-2	senpat	0	adj	Complete
+ten.ner.tá.hi	tɛn.nɛɾ.taː.hɪ	-2	tentlé, nertí, táhi	0	n	Januari
+ten.ó.tá.hi	tɛn.ɔː.taː.hɪ	-2	tentlé, óri, táhi	0	n	February
+ten.san.tá.hi	tɛn.san.taː.hɪ	-2	tentlé, santí, táhi	0	n	March
+ten.ol.tá.hi	tɛn.ɔl.taː.hɪ	-2	tentlé, olpí, táhi	0	n	April
+ten.kju.tá.hi	tɛŋ.kʲu.taː.hɪ	-2	tentlé, kjutí, táhi	0	n	May
+ten.tu.tá.hi	tɛn.tu.taː.hɪ	-2	tentlé, tuháni, táhi	0	n	June
+ten.us.tá.hi	tɛn.us.taː.hɪ	-2	tentlé, usmí, táhi	0	n	July
+ten.tlá.tá.hi	tɛn.tɬaː.taː.hɪ	-2	tentlé, tláhi, táhi	0	n	August
+ten.u.tá.hi	tɛn.u.taː.hɪ	-2	tentlé, ukí, táhi	0	n	September
+ten.ó.hi.tá.hi	tɛn.ɔː.hɪ.taː.hɪ	-2	tentlé, óhi, táhi	0	n	October
+ten.ner.ner.tá.hi	tɛn.nɛɾ.nɛɾ.taː.hɪ	-2	tentlé, nertí, nertí, táhi	0	n	November
+ten.ner.ó.tá.hi	tɛn.nɛɾ.ɔː.taː.hɪ	-2	tentlé, nertí, óri, táhi	0	n	December
+sen.tá.hi	sɛn.taː.hɪ	-2	senpat, táhi	0	cnt	All
+lé	lɛː	-1	lé	0	n	Piece, part (non-detachable)

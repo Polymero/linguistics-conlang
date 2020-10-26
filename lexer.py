@@ -13,11 +13,11 @@ rcParams.update({'figure.autolayout': True})
 # Path Dictionary
 path_dic = {
     # Language lexicons
-    'IS' : r'.\data\iskeelis.tsv',
+    'IS' : r'C:/Users/Nika/Python/linguistics-conlang/data/iskeelis.tsv',
     # Evolved lexicon
-    'EVO' : r'.\data\evolved.tsv',
+    'EVO' : r'C:/Users/Nika/Python/linguistics-conlang/data/evolved.tsv',
     # Hláhu/Fauja lexicon
-    'FAU' : r'.\data\hlaahu.tsv'
+    'FAU' : r'C:/Users/Nika/Python/linguistics-conlang/data/hlaahu.tsv'
 }
 
 # Suppress FutureWarning
@@ -380,9 +380,19 @@ def add(path, entry):
 
     elif path == path_dic["FAU"]:
         # Split entry parameter
-        number, namedot, desc, ngstat = ocd.split(':')
+        number, namedot, desc, ngstat = entry.split(':')
         # Get syllables
+        if '.' not in namedot:
+            namedot += '. '
         sylls = namedot.lower().split('.')
+        # Get evolved word
+        evoname = evolver(namedot, 0, 9, lang="IS")
+        if '.' not in evoname:
+            evoname += '. '
+        evosylls = evoname.split('.')
+        # Get NGstat
+        if ngstat == '':
+            ngstat = ' '
         # Create entry dictionary
         ne = {
             'NO.' : int(number),
@@ -390,7 +400,10 @@ def add(path, entry):
             'Nerlé' : sylls[0],
             'Óle' : ', '.join(sylls[1:]),
             'Description' : desc,
-            'NG' : str(bool(ngstat))
+            'Evo. Name' : evoname.replace('.', '').replace(' ', ''),
+            'Evo. Nerle' : evosylls[0],
+            'Evo. Ól' : ', '.join(evosylls[1:]),
+            'NG' : ngstat
         }
 
     # Add entry to lexicon
@@ -437,7 +450,7 @@ def lst(path, axis, search, ran_num):
     if path in [path_dic['IS'], path_dic['EVO']]:
         print(plex.sort_values('Orthography'))
     elif path == path_dic['FAU']:
-        print(plex.sort_values('Name'))
+        print(plex.sort_values('NO.'))
     # Raise error if language code not recognised
     else:
         raise ValueError('Evolution path not recognised.')

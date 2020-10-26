@@ -1,0 +1,474 @@
+<table class="tg" style="undefined;table-layout: fixed; width: 903px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 301px">
+<col style="width: 301px">
+</colgroup>
+<tbody>
+<tr>
+<td class="tg-wp8o" colspan="3">a</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">an.kó.mi</span> [aŋ.kɔː.mɪ]<br>    <span style="font-style:italic">n.</span> sky</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">as</span> [as]<br>    <span style="font-style:italic">n.</span> tree root, leg</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">an.tan</span> [an.tan]<br>    <span style="font-style:italic">v.</span> to lie down</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ak.tlu</span> [ak.tɬu]<br>    <span style="font-style:italic">v.</span> to hit</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">an.kó</span> [aŋ.kɔː]<br>    <span style="font-style:italic">v.</span> to fly</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">as.pó</span> [as.pɔː]<br>    <span style="font-style:italic">n.</span> foot</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">an.há.ra</span> [aŋ.haː.ɾa]<br>    <span style="font-style:italic">n.</span> rain</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">an.lot.wé</span> [an.lɔt.ʋɛː]<br>    <span style="font-style:italic">n.</span> cloud</td>
+<tr>
+<td class="tg-wp8o" colspan="3">á</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">á.hi</span> [aː.hɪ]<br>    <span style="font-style:italic">v.</span> to go</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">á.ri</span> [aː.ɾɪ]<br>    <span style="font-style:italic">v.</span> to breathe</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">á.ri</span> [aː.ɾɪ]<br>    <span style="font-style:italic">v.</span> to breathe</td>
+</tr>
+<tr>
+<td class="tg-wp8o" colspan="3">e</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">er.tá</span> [ɛɾ.taː]<br>    <span style="font-style:italic">v.</span> to see</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ek.pó.nal</span> [ɛk.pɔː.nal]<br>    <span style="font-style:italic">v.</span> to know</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">em</span> [ɛm]<br>    <span style="font-style:italic">adj.</span> old</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">em.jut</span> [ɛm.jut]<br>    <span style="font-style:italic">n.</span> animal footprints</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">en.ká</span> [ɛŋ.kaː]<br>    <span style="font-style:italic">n.</span> public building</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">en.ká.hi</span> [ɛŋ.kaː.hɪ]<br>    <span style="font-style:italic">n.</span> central bazaar</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">er.tó.sa</span> [ɛɾ.tɔː.sa]<br>    <span style="font-style:italic">n.</span> to read, to observe</td>
+<tr>
+<td class="tg-wp8o" colspan="3">é</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">é.ki</span> [ɛː.kɪ]<br>    <span style="font-style:italic">adj.</span> small</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">é.ká.lis</span> [ɛː.kaː.lɪs]<br>    <span style="font-style:italic">n.</span> fruit</td>
+<tr>
+<td class="tg-wp8o" colspan="3">h</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hlé</span> [ɬɛː]<br>    <span style="font-style:italic">v.</span> to give</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hlá</span> [ɬaː]<br>    <span style="font-style:italic">n.</span> place, location</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hlan.tó</span> [ɬan.tɔː]<br>    <span style="font-style:italic">v.</span> to bite</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.sa</span> [ɬɔː.sa]<br>    <span style="font-style:italic">v.</span> to heal</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.xí.ni</span> [ɬɔː.xi.nɪ]<br>    <span style="font-style:italic">n.</span> doctor, healer</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.é.ká.lis</span> [ɬɔː.ɛː.kaː.lɪs]<br>    <span style="font-style:italic">n.</span> medicinal fruit</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.lé.kat</span> [ɬɔː.lɛː.kat]<br>    <span style="font-style:italic">n.</span> medicine</td>
+<tr>
+<td class="tg-wp8o" colspan="3">i</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">is.sí</span> [ɪs.si]<br>    <span style="font-style:italic">pers.</span> we</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ip</span> [ɪp]<br>    <span style="font-style:italic">n.</span> animal</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">im.mé</span> [ɪm.mɛː]<br>    <span style="font-style:italic">n.</span> seed</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">is.ké.lis</span> [ɪs.kɛː.lɪs]<br>    <span style="font-style:italic">n.</span> iskélis</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">is.ké</span> [ɪs.kɛː]<br>    <span style="font-style:italic">n.</span> our</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">is.sí.ké</span> [ɪs.si.kɛː]<br>    <span style="font-style:italic">n.</span> our (emphasis)</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ip.á.hi</span> [ɪp.aː.hɪ]<br>    <span style="font-style:italic">v.</span> to hunt</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">im.et</span> [ɪm.ɛt]<br>    <span style="font-style:italic">adj.</span> bad</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ip.im.mé</span> [ɪp.ɪm.mɛː]<br>    <span style="font-style:italic">n.</span> egg</td>
+</tr>
+<tr>
+<td class="tg-wp8o" colspan="3">í</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.tlá.sa</span> [i.tɬaː.sa]<br>    <span style="font-style:italic">n.</span> city</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.sin</span> [i.sɪn]<br>    <span style="font-style:italic">n.</span> sun</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.tli</span> [i.tɬɪ]<br>    <span style="font-style:italic">n.</span> flower</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.ton</span> [i.tɔn]<br>    <span style="font-style:italic">n.</span> father</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.ta</span> [i.ta]<br>    <span style="font-style:italic">n.</span> bird</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.tas</span> [i.tas]<br>    <span style="font-style:italic">par.</span> together, as one, unity particle</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">í.tjá.ri</span> [i.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> sunday</td>
+<tr>
+<td class="tg-wp8o" colspan="3">j</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">jé.hal</span> [jɛː.hal]<br>    <span style="font-style:italic">v.</span> to die (-> to end)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">já.hu.wes.kí</span> [jaː.hu.ʋɛs.ki]<br>    <span style="font-style:italic">n.</span> star</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">jat.tló</span> [jat.tɬɔː]<br>    <span style="font-style:italic">v.</span> to make, to create (abstract)</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">jó</span> [kʲɔː]<br>    <span style="font-style:italic">par.</span> question particle, ?</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">jí.me</span> [ji.mɛ]<br>    <span style="font-style:italic">n.</span> right</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">já.ton</span> [jaː.tɔn]<br>    <span style="font-style:italic">n.</span> child</td>
+</tr>
+<tr>
+<td class="tg-wp8o" colspan="3">k</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kjó</span> [kʲɔː]<br>    <span style="font-style:italic">pers.</span> he, she, it</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kal</span> [kal]<br>    <span style="font-style:italic">adj.</span> far, distant</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kju.tí</span> [kʲu.ti]<br>    <span style="font-style:italic">num.</span> five</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ker.xí</span> [kɛɾ.xi]<br>    <span style="font-style:italic">v.</span> to wait, to stand still</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kan.u.tor</span> [kan.u.tɔɾ]<br>    <span style="font-style:italic">n.</span> mountain</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kin.lé</span> [kɪn.lɛː]<br>    <span style="font-style:italic">v.</span> to be allowed</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ké</span> [kɛː]<br>    <span style="font-style:italic">par.</span> of</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kjó.ké</span> [kʲɔː.kɛː]<br>    <span style="font-style:italic">n.</span> his, her, its</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kró.ho</span> [kɾɔː.hɔ]<br>    <span style="font-style:italic">n.</span> chest, breast</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ká.hi</span> [kaː.hɪ]<br>    <span style="font-style:italic">v.</span> to turn</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ká.sun.tá</span> [kaː.sun.taː]<br>    <span style="font-style:italic">v.</span> to trip, to fall over</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kró.pi</span> [kɾɔː.pɪ]<br>    <span style="font-style:italic">adj.</span> cold</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kó.ham</span> [kɔː.ham]<br>    <span style="font-style:italic">adj.</span> old</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kó.mil</span> [kɔː.mɪl]<br>    <span style="font-style:italic">v.</span> to move, to go</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kí.rel</span> [ki.ɾɛl]<br>    <span style="font-style:italic">n.</span> forest</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">kom.il</span> [kɔm.ɪl]<br>    <span style="font-style:italic">v.</span> to cry</td>
+<tr>
+<td class="tg-wp8o" colspan="3">l</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lé.hi</span> [lɛː.hɪ]<br>    <span style="font-style:italic">v.</span> to be different</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lis.sá</span> [lɪs.saː]<br>    <span style="font-style:italic">n.</span> tongue</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lot.wé</span> [lɔt.ʋɛː]<br>    <span style="font-style:italic">n.</span> head, person (if), tree crown</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lek.kem</span> [lɛk.kɛm]<br>    <span style="font-style:italic">n.</span> nose, front-entrance deco</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lí.mi</span> [li.mɪ]<br>    <span style="font-style:italic">n.</span> tree bark, skin (inf)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lé.kat</span> [lɛː.kat]<br>    <span style="font-style:italic">v.</span> to eat</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lis.jat</span> [lɪs.jat]<br>    <span style="font-style:italic">v.</span> to lick, to lie</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">lé</span> [lɛː]<br>    <span style="font-style:italic">n.</span> piece, part (non-detachable)</td>
+<tr>
+<td class="tg-wp8o" colspan="3">hl</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hlé</span> [ɬɛː]<br>    <span style="font-style:italic">v.</span> to give</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hlá</span> [ɬaː]<br>    <span style="font-style:italic">n.</span> place, location</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hlan.tó</span> [ɬan.tɔː]<br>    <span style="font-style:italic">v.</span> to bite</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.sa</span> [ɬɔː.sa]<br>    <span style="font-style:italic">v.</span> to heal</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.xí.ni</span> [ɬɔː.xi.nɪ]<br>    <span style="font-style:italic">n.</span> doctor, healer</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.é.ká.lis</span> [ɬɔː.ɛː.kaː.lɪs]<br>    <span style="font-style:italic">n.</span> medicinal fruit</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">hló.lé.kat</span> [ɬɔː.lɛː.kat]<br>    <span style="font-style:italic">n.</span> medicine</td>
+<tr>
+<td class="tg-wp8o" colspan="3">m</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mah</span> [mah]<br>    <span style="font-style:italic">n.</span> big</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mun</span> [mun]<br>    <span style="font-style:italic">num.</span> thousand</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mu.tas</span> [mu.tas]<br>    <span style="font-style:italic">v.</span> to trade</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mak.pó</span> [mak.pɔː]<br>    <span style="font-style:italic">v.</span> to hide something, to conceal</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">man</span> [man]<br>    <span style="font-style:italic">n.</span> reason</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mó</span> [mɔː]<br>    <span style="font-style:italic">n.</span> tooth</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mó.tja</span> [mɔː.tʲa]<br>    <span style="font-style:italic">n.</span> night</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mí.xin</span> [mi.xɪn]<br>    <span style="font-style:italic">n.</span> fish</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">má.njó</span> [maː.nʲɔː]<br>    <span style="font-style:italic">itg.</span> why, what for</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mó.hló.xí.ni</span> [mɔː.ɬɔː.xi.nɪ]<br>    <span style="font-style:italic">n.</span> dentist</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">man.ké</span> [maŋ.kɛː]<br>    <span style="font-style:italic">par.</span> because of</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mó.jat</span> [mɔː.jat]<br>    <span style="font-style:italic">v.</span> to chew, to bite off</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">mí.ku</span> [mi.ku]<br>    <span style="font-style:italic">adj.</span> simple</td>
+<tr>
+<td class="tg-wp8o" colspan="3">n</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">né.sa</span> [nɛː.sa]<br>    <span style="font-style:italic">v.</span> to be born (-> to start)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">njes</span> [nʲɛs]<br>    <span style="font-style:italic">n.</span> piece, part (detachable)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ner.tí</span> [nɛɾ.ti]<br>    <span style="font-style:italic">num.</span> one</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">nar</span> [naɾ]<br>    <span style="font-style:italic">n.</span> mouth, front-entrance</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">nik.só</span> [nɪk.sɔː]<br>    <span style="font-style:italic">n.</span> market stall</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ní</span> [ni]<br>    <span style="font-style:italic">par.</span> direction</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ná</span> [naː]<br>    <span style="font-style:italic">par.</span> encouragement particle, !</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ner.ké</span> [nɛɾ.kɛː]<br>    <span style="font-style:italic">dem.</span> this</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ner.hlá</span> [nɛɾ.ɬaː]<br>    <span style="font-style:italic">dem.</span> here</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">nas.kí</span> [nas.ki]<br>    <span style="font-style:italic">n.</span> leaf</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ní.hus</span> [ni.hus]<br>    <span style="font-style:italic">n.</span> (strong) directed wind, gust of wind</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ní.sí.ka</span> [ni.si.ka]<br>    <span style="font-style:italic">n.</span> directed light, ray of light</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">nas.kí</span> [nas.ki]<br>    <span style="font-style:italic">n.</span> leaf</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">nó</span> [nɔː]<br>    <span style="font-style:italic">par.</span> means and method particle</td>
+<tr>
+<td class="tg-wp8o" colspan="3">o</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ol.pí</span> [ɔl.pi]<br>    <span style="font-style:italic">num.</span> four</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">oh.rá</span> [ɔh.ɾaː]<br>    <span style="font-style:italic">v.</span> to teach</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ol</span> [ɔl]<br>    <span style="font-style:italic">par.</span> and (exhaustive)</td>
+</tr>
+<tr>
+<td class="tg-wp8o" colspan="3">ó</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ó.ja</span> [ɔː.ja]<br>    <span style="font-style:italic">adj.</span> many</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ó.ri</span> [ɔː.ɾɪ]<br>    <span style="font-style:italic">num.</span> two</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ó.hi</span> [ɔː.hɪ]<br>    <span style="font-style:italic">num.</span> ten</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ó.ké</span> [ɔː.kɛː]<br>    <span style="font-style:italic">dem.</span> that</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ó.hlá</span> [ɔː.ɬaː]<br>    <span style="font-style:italic">dem.</span> there</td>
+<tr>
+<td class="tg-wp8o" colspan="3">p</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pas.kí</span> [pas.ki]<br>    <span style="font-style:italic">n.</span> rock</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pó.hi</span> [pɔː.hɪ]<br>    <span style="font-style:italic">v.</span> to hold</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pré.ma</span> [pɾɛː.ma]<br>    <span style="font-style:italic">v.</span> to be the same</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pó.xot</span> [pɔː.xɔt]<br>    <span style="font-style:italic">n.</span> hand</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pen.sá</span> [pɛn.saː]<br>    <span style="font-style:italic">v.</span> to happen, to occur</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pas.tí.hi</span> [pas.ti.hɪ]<br>    <span style="font-style:italic">v.</span> to grow, to arise, to get up</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pó.xot</span> [pɔː.xɔt]<br>    <span style="font-style:italic">v.</span> to make, to create (physical)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pan.nil</span> [pan.nɪl]<br>    <span style="font-style:italic">n.</span> non-royal, common</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pan.lot.wé</span> [pan.lɔt.ʋɛː]<br>    <span style="font-style:italic">n.</span> common person</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pé</span> [pɛː]<br>    <span style="font-style:italic">n.</span> path</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">plu.kí</span> [plu.ki]<br>    <span style="font-style:italic">n.</span> grass</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pá.tit</span> [paː.tɪt]<br>    <span style="font-style:italic">n.</span> meat</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pí.ku</span> [pi.ku]<br>    <span style="font-style:italic">n.</span> liver</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">put</span> [put]<br>    <span style="font-style:italic">v.</span> to spit</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">plu.mí</span> [plu.mi]<br>    <span style="font-style:italic">v.</span> to fear</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pel</span> [pɛl]<br>    <span style="font-style:italic">n.</span> sea</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pan.né</span> [pan.nɛː]<br>    <span style="font-style:italic">adj.</span> warm</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pak.kel</span> [pak.kɛl]<br>    <span style="font-style:italic">n.</span> dog</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pjel</span> [pʲɛl]<br>    <span style="font-style:italic">n.</span> door (soft material, often cloth or feathers)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pu.njó</span> [pu.nʲɔː]<br>    <span style="font-style:italic">n.</span> brown</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pah.hu</span> [pah.hu]<br>    <span style="font-style:italic">v.</span> to intend</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pel.xá.hi</span> [pɛl.xaː.hɪ]<br>    <span style="font-style:italic">n.</span> salt</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pas.há.ra</span> [pas.haː.ɾa]<br>    <span style="font-style:italic">n.</span> ice</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pá</span> [paː]<br>    <span style="font-style:italic">n.</span> word</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">plu.mí</span> [plu.mi]<br>    <span style="font-style:italic">v.</span> to fear</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pá.jat</span> [paː.jat]<br>    <span style="font-style:italic">v.</span> to say</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pó.kó.mil</span> [pɔː.kɔː.mɪl]<br>    <span style="font-style:italic">v.</span> to take with, to carry</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">pó.tlé</span> [pɔː.tɬɛː]<br>    <span style="font-style:italic">v.</span> to bring</td>
+<tr>
+<td class="tg-wp8o" colspan="3">r</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ré</span> [ɾɛː]<br>    <span style="font-style:italic">pers.</span> you (singular)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ru.wan</span> [ɾu.ʋan]<br>    <span style="font-style:italic">n.</span> book</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">rí.nu</span> [ɾi.nu]<br>    <span style="font-style:italic">n.</span> money</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ran.só</span> [ɾan.sɔː]<br>    <span style="font-style:italic">n.</span> artificial, man-made</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ré.ké</span> [ɾɛː.kɛː]<br>    <span style="font-style:italic">n.</span> your</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ris</span> [ɾɪs]<br>    <span style="font-style:italic">n.</span> feather</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">rí.ma</span> [ɾi.ma]<br>    <span style="font-style:italic">n.</span> black</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ró.hi</span> [ɾɔː.hɪ]<br>    <span style="font-style:italic">par.</span> or (exhaustive)</td>
+<tr>
+<td class="tg-wp8o" colspan="3">s</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sjut</span> [sʲut]<br>    <span style="font-style:italic">v.</span> to sit</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">su</span> [su]<br>    <span style="font-style:italic">adj.</span> close, near</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">só.li</span> [sɔː.lɪ]<br>    <span style="font-style:italic">num.</span> zero</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">san.tí</span> [san.ti]<br>    <span style="font-style:italic">num.</span> three</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sé.po</span> [sɛː.pɔ]<br>    <span style="font-style:italic">n.</span> eye</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sé.lep</span> [sɛː.lɛp]<br>    <span style="font-style:italic">n.</span> ear, side entrance</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sé.pal.hí</span> [sɛː.pal.hi]<br>    <span style="font-style:italic">n.</span> clothing</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sí.ka</span> [si.ka]<br>    <span style="font-style:italic">n.</span> light</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">su.kal</span> [su.kal]<br>    <span style="font-style:italic">n.</span> soil</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sol.tu</span> [sɔl.tu]<br>    <span style="font-style:italic">n.</span> emptiness</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sé</span> [sɛː]<br>    <span style="font-style:italic">n.</span> heart</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sá.ru</span> [saː.ɾu]<br>    <span style="font-style:italic">n.</span> rope</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sil</span> [sɪl]<br>    <span style="font-style:italic">n.</span> tail</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">só.ra</span> [sɔː.ɾa]<br>    <span style="font-style:italic">v.</span> to laugh</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sen.tar</span> [sɛn.taɾ]<br>    <span style="font-style:italic">v.</span> to hear</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sun.tá</span> [sun.taː]<br>    <span style="font-style:italic">v.</span> to fall</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">san.pé</span> [san.pɛː]<br>    <span style="font-style:italic">adj.</span> dry</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sí.pol</span> [si.pɔl]<br>    <span style="font-style:italic">n.</span> left</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">su.kó</span> [su.kɔː]<br>    <span style="font-style:italic">v.</span> to dig, to tunnel</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">só.lot</span> [sɔː.lɔt]<br>    <span style="font-style:italic">v.</span> to run, to go quickly</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">su.hal.man</span> [su.hal.man]<br>    <span style="font-style:italic">n.</span> house</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">su.hlá</span> [su.ɬaː]<br>    <span style="font-style:italic">n.</span> home</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">su.tjá.ri</span> [su.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> saturday</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sen.pat</span> [sɛn.pat]<br>    <span style="font-style:italic">adj.</span> complete</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">sen.tá.hi</span> [sɛn.taː.hɪ]<br>    <span style="font-style:italic">cnt.</span> all</td>
+<tr>
+<td class="tg-wp8o" colspan="3">t</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tó</span> [tɔː]<br>    <span style="font-style:italic">pers.</span> you (plural)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tah.hu</span> [tah.hu]<br>    <span style="font-style:italic">pers.</span> they</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tos.tir</span> [tɔs.tɪɾ]<br>    <span style="font-style:italic">v.</span> to be of number</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tu.há.ni</span> [tu.haː.nɪ]<br>    <span style="font-style:italic">num.</span> six</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tá.hu</span> [taː.hu]<br>    <span style="font-style:italic">n.</span> arm, tree branch</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ton.nu</span> [tɔn.nu]<br>    <span style="font-style:italic">n.</span> family member</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tar.rí.hlu</span> [taɾ.ɾi.ɬu]<br>    <span style="font-style:italic">n.</span> metal</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tí.lo</span> [ti.lɔ]<br>    <span style="font-style:italic">adp.</span> above, on top of</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tí.ni</span> [ti.nɪ]<br>    <span style="font-style:italic">n.</span> up</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tó.le</span> [tɔː.lɛ]<br>    <span style="font-style:italic">n.</span> tree</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tó.ké</span> [tɔː.kɛː]<br>    <span style="font-style:italic">n.</span> your (plural)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tah.hu.ké</span> [tah.hu.kɛː]<br>    <span style="font-style:italic">n.</span> their</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tjá.ri</span> [tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> day</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.tlé</span> [tɛn.tɬɛː]<br>    <span style="font-style:italic">n.</span> moon</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ton</span> [tɛn.tɔn]<br>    <span style="font-style:italic">n.</span> mother</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tá.hi</span> [taː.hɪ]<br>    <span style="font-style:italic">cnt.</span> general counter</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tá.hi.kjó</span> [taː.hɪ.kʲɔː]<br>    <span style="font-style:italic">itg.</span> how many</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tjé</span> [tʲɛː]<br>    <span style="font-style:italic">n.</span> camel</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tó.la</span> [tɔː.la]<br>    <span style="font-style:italic">n.</span> fox</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.tjá.ri</span> [tɛn.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> monday</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tó.tjá.ri</span> [tɔː.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> thursday</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tar.tjá.ri</span> [taɾ.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> friday</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ner.tá.hi</span> [tɛn.nɛɾ.taː.hɪ]<br>    <span style="font-style:italic">n.</span> januari</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ó.tá.hi</span> [tɛn.ɔː.taː.hɪ]<br>    <span style="font-style:italic">n.</span> february</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.san.tá.hi</span> [tɛn.san.taː.hɪ]<br>    <span style="font-style:italic">n.</span> march</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ol.tá.hi</span> [tɛn.ɔl.taː.hɪ]<br>    <span style="font-style:italic">n.</span> april</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.kju.tá.hi</span> [tɛŋ.kʲu.taː.hɪ]<br>    <span style="font-style:italic">n.</span> may</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.tu.tá.hi</span> [tɛn.tu.taː.hɪ]<br>    <span style="font-style:italic">n.</span> june</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.us.tá.hi</span> [tɛn.us.taː.hɪ]<br>    <span style="font-style:italic">n.</span> july</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.tlá.tá.hi</span> [tɛn.tɬaː.taː.hɪ]<br>    <span style="font-style:italic">n.</span> august</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.u.tá.hi</span> [tɛn.u.taː.hɪ]<br>    <span style="font-style:italic">n.</span> september</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ó.hi.tá.hi</span> [tɛn.ɔː.hɪ.taː.hɪ]<br>    <span style="font-style:italic">n.</span> october</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ner.ner.tá.hi</span> [tɛn.nɛɾ.nɛɾ.taː.hɪ]<br>    <span style="font-style:italic">n.</span> november</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">ten.ner.ó.tá.hi</span> [tɛn.nɛɾ.ɔː.taː.hɪ]<br>    <span style="font-style:italic">n.</span> december</td>
+<tr>
+<td class="tg-wp8o" colspan="3">tl</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tló.xi</span> [tɬɔː.xɪ]<br>    <span style="font-style:italic">v.</span> to think</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tlé</span> [tɬɛː]<br>    <span style="font-style:italic">v.</span> to come</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tlá.hi</span> [tɬaː.hɪ]<br>    <span style="font-style:italic">num.</span> eight</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tlen.sol</span> [tɬɛn.sɔl]<br>    <span style="font-style:italic">v.</span> to sleep</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">tló.pó.hi</span> [tɬɔː.pɔː.hɪ]<br>    <span style="font-style:italic">v.</span> to remember</td>
+<tr>
+<td class="tg-wp8o" colspan="3">u</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">us.mí</span> [us.mi]<br>    <span style="font-style:italic">num.</span> seven</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">u.kí</span> [u.ki]<br>    <span style="font-style:italic">num.</span> nine</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">us.pó</span> [us.pɔː]<br>    <span style="font-style:italic">n.</span> back, basis, foundation</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">uk.wó</span> [uk.ʋɔː]<br>    <span style="font-style:italic">n.</span> fire</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">u.hó</span> [u.hɔː]<br>    <span style="font-style:italic">n.</span> white</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">uk.tjá.ri</span> [uk.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> tuesday</td>
+</tr>
+<tr>
+<td class="tg-wp8o" colspan="3">w</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">wó.hi</span> [ʋɔː.hɪ]<br>    <span style="font-style:italic">par.</span> now</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">wes.sal</span> [ʋɛs.sal]<br>    <span style="font-style:italic">n.</span> man</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">wé.ron</span> [ʋɛː.ɾɔn]<br>    <span style="font-style:italic">n.</span> woman</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">wé.li</span> [ʋɛː.lɪ]<br>    <span style="font-style:italic">v.</span> to wash</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">wó.tjá.ri</span> [ʋɔː.tʲaː.ɾɪ]<br>    <span style="font-style:italic">n.</span> today</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">wó.tjá.ní</span> [ʋɔː.tʲaː.ni]<br>    <span style="font-style:italic">exp.</span> good day</td>
+</tr>
+<tr>
+<td class="tg-wp8o" colspan="3">x</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xen.tu</span> [xɛn.tu]<br>    <span style="font-style:italic">pers.</span> i</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xí.ni</span> [xi.nɪ]<br>    <span style="font-style:italic">n.</span> person (f)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xu.luk</span> [xu.luk]<br>    <span style="font-style:italic">v.</span> to command</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xá.hi</span> [xaː.hɪ]<br>    <span style="font-style:italic">n.</span> sand</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xu.pí</span> [xu.pi]<br>    <span style="font-style:italic">n.</span> neck</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xen.ké</span> [xɛŋ.kɛː]<br>    <span style="font-style:italic">n.</span> my</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xen.tu.ké</span> [xɛn.tu.kɛː]<br>    <span style="font-style:italic">n.</span> my (emphasis)</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xí.mes</span> [xi.mɛs]<br>    <span style="font-style:italic">n.</span> fat</td>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xín.í.tas</span> [xin.i.tas]<br>    <span style="font-style:italic">n.</span> group (of people)</td>
+</tr>
+<tr>
+<td class="tg-73oq"><span style="font-weight:bold;color:#3166FF">xá.hi.mun.tá.hi</span> [xaː.hɪ.mun.taː.hɪ]<br>    <span style="font-style:italic">exp.</span> thank you</td>
+</tbody>
+</table>
