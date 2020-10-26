@@ -355,12 +355,13 @@ def evolver(entry, age_i, age_f, lang='IS'):
 #-------------------------------------------------------------------------------
 # MAIN FUNCTIONS
 #-------------------------------------------------------------------------------
-def add(path, entry):
+def add(path, entry, mode='write'):
     '''APPENDS ENTRY TO CORRESPONDING LEXICON'''
-    try:
-        lex = pd.read_csv(path, sep=r'\t', engine='python')
-    except:
-        raise ValueError('Error loading CSV.')
+    if mode == 'write'
+        try:
+            lex = pd.read_csv(path, sep=r'\t', engine='python')
+        except:
+            raise ValueError('Error loading CSV.')
 
     if path == path_dic["IS"]:
         # Split entry parameter
@@ -406,12 +407,15 @@ def add(path, entry):
             'NG' : ngstat
         }
 
-    # Add entry to lexicon
-    lex = lex.append(ne, ignore_index=True)
-    lex.to_csv(path, sep='\t', index=False)
-    # Succes message
-    print('\nSuccesfully logged the following entry:')
-    print(pd.Series(ne))
+    if mode == 'write':
+        # Add entry to lexicon
+        lex = lex.append(ne, ignore_index=True)
+        lex.to_csv(path, sep='\t', index=False)
+        # Succes message
+        print('\nSuccesfully logged the following entry:')
+        print(pd.Series(ne))
+    elif mode == 'return':
+        return ne
 
 
 def rem(path, id):
