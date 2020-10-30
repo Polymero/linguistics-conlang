@@ -13,11 +13,11 @@ ma	ma	-1	mah	0	n	Big	True	mah	mah
 er.ta	ɛɾ.ta	-2	ertá	0	v	to See	True	ɛɾ.taː	er.tá
 shut	ʃut	-1	sjut	0	v	to Sit	True	sʲut	sjut
 hlé	ɬɛː	-1	hlé	0	v	to Give	False	ɬɛː	hlé
-nés	nɛːs	-1	nésa	0	v	to Be born (-> to start)	True	nɛː.sa	né.sa
+né	nɛː	-1	nésa	0	v	to Be born (-> to start)	True	nɛː.sa	né.sa
 ep.pó.nal	ɛp.pɔː.nal	-2	ekpónal	0	v	to Know	True	ɛk.pɔː.nal	ek.pó.nal
 foi	fɔɪ	-1	póhi	0	v	to Hold	True	pɔː.hɪ	pó.hi
 xu.luk	xu.luk	-2	xuluk	0	v	to Command	False	xu.luk	xu.luk
-njes	nʲɛs	-1	njes	0	n	Piece, part	False	nʲɛs	njes
+nje	nʲɛ	-1	njes	0	n	Piece, part (detachable)	True	nʲɛs	njes
 tlóx	tɬɔːx	-1	tlóxi	0	v	to Think	True	tɬɔː.xɪ	tló.xi
 hlá	ɬaː	-1	hlá	0	n	Place, location	False	ɬaː	hlá
 tos.chir	tɔs.tʃɪɾ	-2	tostir	0	v	to Be of number	True	tɔs.tɪɾ	tos.tir
@@ -53,10 +53,10 @@ im.me	ɪm.mɛ	-2	immé	0	n	Seed	True	ɪm.mɛː	im.mé
 jé.gal	jɛː.gal	-2	jéhal	0	v	to Die (-> to end)	True	jɛː.hal	jé.hal
 fen.za	fɛn.za	-2	pensá	0	v	to Happen, to Occur	True	pɛn.saː	pen.sá
 xai	xaɪ	-1	xáhi	0	n	Sand	True	xaː.hɪ	xá.hi
-mu.dhas	mu.ðas	-2	mutas	0	v	to Trade	True	mu.tas	mu.tas
+mu.dha	mu.ða	-2	mutas	0	v	to Trade	True	mu.tas	mu.tas
 cher.xi	tʃɛɾ.xɪ	-2	kerxí	0	v	to Wait, to Stand still	True	kɛɾ.xi	ker.xí
 ton.nu	tɔn.nu	-2	tonnu	0	n	Family member	False	tɔn.nu	ton.nu
-í.tlás	i.tɬaːs	-1	ítlása	0	n	City	True	i.tɬaː.sa	í.tlá.sa
+í.tlá	i.tɬaː	-1	ítlása	0	n	City	True	i.tɬaː.sa	í.tlá.sa
 á.ra	aː.ɾa	-2	hára	0	n	Water	True	haː.ɾa	há.ra
 an.góm	aŋ.gɔːm	-1	ankómi	0	n	Sky	True	aŋ.kɔː.mɪ	an.kó.mi
 zé.val.i	zɛː.val.ɪ	-2	sépalhí	0	n	Clothing	True	sɛː.pal.hi	sé.pal.hí
@@ -86,7 +86,7 @@ fan.lot.we	fan.lɔt.ʋɛ	-2	pannil, lotwé	0	n	Common person	True	pan.lɔt.ʋɛ�
 ché	tʃɛː	-1	ké	0	par	Of	True	kɛː	ké
 ní	ni	-1	ní	0	par	Direction	False	ni	ní
 sol.tu	sɔl.tu	-2	soltu	0	n	Emptiness	False	sɔl.tu	sol.tu
-is.ché.lis	ɪs.tʃɛː.lɪs	-2	issí, ké, lissá	0	n	Iskélis	True	ɪs.kɛː.lɪs	is.ké.lis
+is.ché.li	ɪs.tʃɛː.lɪ	-2	issí, ké, lissá	0	n	Iskélis	True	ɪs.kɛː.lɪs	is.ké.lis
 zé	zɛː	-1	sé	0	n	Heart	True	sɛː	sé
 á.che	aː.tʃɛ	-2	hátje	0	adp	Under, beneath	True	haː.tʲɛ	há.tje
 án	aːn	-1	hátje, ní	0	n	Down	True	haː.nɪ	há.ni
@@ -118,7 +118,7 @@ flu.qi	flu.ɣɪ	-2	plukí	0	n	Grass	True	plu.ki	plu.kí
 bá.dhit	baː.ðɪt	-2	pátit	0	n	Meat	True	paː.tɪt	pá.tit
 zá.ru	zaː.ɾu	-2	sáru	0	n	Rope	True	saː.ɾu	sá.ru
 shil	ʃɪl	-1	sil	0	n	Tail	True	sɪl	sil
-ris	ɾɪs	-1	ris	0	n	Feather	False	ɾɪs	ris
+ri	ɾɪ	-1	ris	0	n	Feather	True	ɾɪs	ris
 mó	mɔː	-1	mó	0	n	Tooth	False	mɔː	mó
 kró	kɾɔː	-1	króho	0	n	Chest, breast	True	kɾɔː.hɔ	kró.ho
 bíq	biɣ	-1	píku	0	n	Liver	True	pi.ku	pí.ku
@@ -152,7 +152,7 @@ u.mi	u.mɪ	-2	humí	0	adj	Sharp	True	hu.mi	hu.mí
 sam.be	sam.bɛ	-2	sanpé	0	adj	Dry	True	san.pɛː	san.pé
 xím	xim	-1	jíme	0	n	Right	True	ji.mɛ	jí.me
 shí.vol	ʃi.vɔl	-2	sípol	0	n	Left	True	si.pɔl	sí.pol
-xí.mes	xi.mɛs	-2	xímes	0	n	Fat	False	xi.mɛs	xí.mes
+xí.me	xi.mɛ	-2	xímes	0	n	Fat	True	xi.mɛs	xí.mes
 kó.mil	kɔː.mɪl	-2	kómil	0	v	to Move, to Go	False	kɔː.mɪl	kó.mil
 an.go	aŋ.gɔ	-2	ankómi, kómil	0	v	to Fly	True	aŋ.kɔː	an.kó
 á.qo	aː.ɣɔ	-2	hára, kómil	0	v	to Swim	True	haː.kɔː	há.kó
@@ -165,7 +165,7 @@ mí.xin	mi.xɪn	-2	míxin	0	n	Fish	False	mi.xɪn	mí.xin
 í.dha	i.ða	-2	íta	0	n	Bird	True	i.ta	í.ta
 fak.kel	fak.kɛl	-2	pakkel	0	n	Dog	True	pak.kɛl	pak.kel
 chí.rel	tʃi.ɾɛl	-2	kírel	0	n	Forest	True	ki.ɾɛl	kí.rel
-é.qá.lis	ɛː.ɣaː.lɪs	-2	ékális	0	n	Fruit	True	ɛː.kaː.lɪs	é.ká.lis
+é.qá.li	ɛː.ɣaː.lɪ	-2	ékális	0	n	Fruit	True	ɛː.kaː.lɪs	é.ká.lis
 zó.lot	zɔː.lɔt	-2	sólot	0	v	to Run, to Go quickly	True	sɔː.lɔt	só.lot
 fjel	fʲɛl	-1	pjel	0	n	Door (soft material, often cloth or feathers)	True	pʲɛl	pjel
 fu.njo	fu.nʲɔ	-2	punjó	0	n	Brown	True	pu.nʲɔː	pu.njó
@@ -176,13 +176,13 @@ tól	tɔːl	-1	tóla	0	n	Fox	True	tɔː.la	tó.la
 é.mjut	ɛː.mʲut	-2	emjut	0	n	Animal footprints	True	ɛm.jut	em.jut
 en.ga	ɛŋ.ga	-2	enká	0	n	Public building	True	ɛŋ.kaː	en.ká
 en.gai	ɛŋ.gaɪ	-2	enkáhi	0	n	Central bazaar	True	ɛŋ.kaː.hɪ	en.ká.hi
-er.tós	ɛɾ.tɔːs	-1	ertósa	0	n	to Read, to Observe	True	ɛɾ.tɔː.sa	er.tó.sa
+er.tó	ɛɾ.tɔː	-1	ertósa	0	n	to Read, to Observe	True	ɛɾ.tɔː.sa	er.tó.sa
 fau	faʊ	-1	pahhu	0	v	to Intend	True	pah.hu	pah.hu
-njus	nʲus	-1	ní, hus	0	n	(strong) Directed wind, gust of wind	True	ni.hus	ní.hus
+nju	nʲu	-1	ní, hus	0	n	(strong) Directed wind, gust of wind	True	ni.hus	ní.hus
 as.po	as.pɔ	-2	as, póxot	0	n	Foot	True	as.pɔː	as.pó
 iv.im.me	ɪv.ɪm.mɛ	-2	ip, immé	0	n	Egg	True	ɪp.ɪm.mɛː	ip.im.mé
 an.á.ra	an.aː.ɾa	-2	ankómi, hára	0	n	Rain	True	aŋ.haː.ɾa	an.há.ra
-aus	aʊs	-1	hára, hus	0	n	River	True	haː.hus	há.hus
+au	aʊ	-1	hára, hus	0	n	River	True	haː.hus	há.hus
 fel.xai	fɛl.xaɪ	-2	pel, xáhi	0	n	Salt	True	pɛl.xaː.hɪ	pel.xá.hi
 án.góm	aːŋ.gɔːm	-1	hára, ankómi	0	n	Mist, fog	True	haː.aŋ.kɔː.mɪ	há.an.kó.mi
 an.lot.we	an.lɔt.ʋɛ	-2	ankómi, lotwé	0	n	Cloud	True	an.lɔt.ʋɛː	an.lot.wé
@@ -190,28 +190,25 @@ fas.á.ra	fas.aː.ɾa	-2	paskí, hára	0	n	Ice	True	pas.haː.ɾa	pas.há.ra
 kom.il	kɔm.ɪl	-2	komil	0	v	to Cry	False	kɔm.ɪl	kom.il
 má.njo	maː.nʲɔ	-2	man, kjó	0	itg	Why, what for	True	maː.nʲɔː	má.njó
 hlan.do	ɬan.dɔ	-2	hlantó	0	v	to Bite	True	ɬan.tɔː	hlan.tó
-hlós	ɬɔːs	-1	hlósa	0	v	to Heal	True	ɬɔː.sa	hló.sa
+hló	ɬɔː	-1	hlósa	0	v	to Heal	True	ɬɔː.sa	hló.sa
 ní.shíq	ni.ʃiɣ	-1	ní, síka	0	n	Directed light, ray of light	True	ni.si.ka	ní.sí.ka
-xín.í.dhas	xin.i.ðas	-2	xíni, ítas	0	n	Group (of people)	True	xin.i.tas	xín.í.tas
+xín.í.dha	xin.i.ða	-2	xíni, ítas	0	n	Group (of people)	True	xin.i.tas	xín.í.tas
 hló.xín	ɬɔː.xin	-1	hlósa, xíni	0	n	Doctor, healer	True	ɬɔː.xi.nɪ	hló.xí.ni
 mó.hló.xín	mɔː.ɬɔː.xin	-1	mó, hlósa, xíni	0	n	Dentist	True	mɔː.ɬɔː.xi.nɪ	mó.hló.xí.ni
-hló.é.qá.lis	ɬɔː.ɛː.ɣaː.lɪs	-2	hlósa, ékális	0	n	Medicinal fruit	True	ɬɔː.ɛː.kaː.lɪs	hló.é.ká.lis
+hló.é.qá.li	ɬɔː.ɛː.ɣaː.lɪ	-2	hlósa, ékális	0	n	Medicinal fruit	True	ɬɔː.ɛː.kaː.lɪs	hló.é.ká.lis
 hló.lé.qat	ɬɔː.lɛː.ɣat	-2	hlósa, lékat	0	n	Medicine	True	ɬɔː.lɛː.kat	hló.lé.kat
 swal.man	sʋal.man	-2	suhalman	0	n	House	True	su.hal.man	su.hal.man
 bá	baː	-1	pá	0	n	Word	True	paː	pá
 su.hla	su.ɬa	-2	suhalman, hlá	0	n	Home	True	su.ɬaː	su.hlá
 man.ge	maŋ.gɛ	-2	man, ké	0	par	Because of	True	maŋ.kɛː	man.ké
 mó.jat	mɔː.jat	-2	mó, jattló	0	v	to Chew, to Bite off	False	mɔː.jat	mó.jat
-flu.mi	flu.mɪ	-2	plumí	0	v	to Fear	True	plu.mi	plu.mí
 bá.jat	baː.jat	-2	pá, jattló	0	v	to Say	True	paː.jat	pá.jat
 lí.shat	li.ʃat	-2	lissa, jattló	0	v	to Lick, to Lie	True	lɪs.jat	lis.jat
 wó.chá.ri	ʋɔː.tʃaː.ɾɪ	-2	wóhi, tjári	0	n	Today	True	ʋɔː.tʲaː.ɾɪ	wó.tjá.ri
 wó.chá.ni	ʋɔː.tʃaː.nɪ	-2	wóhi, tjári, ní	0	exp	Good day	True	ʋɔː.tʲaː.ni	wó.tjá.ní
 us.tlóx	us.tɬɔːx	-1	hus, tlóxi	0	v	to Forget	True	hus.tɬɔː.xɪ	hus.tló.xi
 tló.voi	tɬɔː.vɔɪ	-2	tlóxi, póhi	0	v	to Remember	True	tɬɔː.pɔː.hɪ	tló.pó.hi
-nas.chi	nas.tʃɪ	-2	naskí	0	n	Leaf	True	nas.ki	nas.kí
-á.ri	aː.ɾɪ	-2	ári	0	v	to Breathe	False	aː.ɾɪ	á.ri
-í.dhas	i.ðas	-2	ítas	0	par	Together, As one, Unity particle	True	i.tas	í.tas
+í.dha	i.ða	-2	ítas	0	par	Together, As one, Unity particle	True	i.tas	í.tas
 xai.mun.dai	xaɪ.mun.daɪ	-2	xáhi, mun, táhi	0	exp	Thank you	True	xaː.hɪ.mun.taː.hɪ	xá.hi.mun.tá.hi
 ol	ɔl	-1	ol	0	par	And (exhaustive)	False	ɔl	ol
 roi	ɾɔɪ	-1	róhi	0	par	Or (exhaustive)	True	ɾɔː.hɪ	ró.hi
@@ -239,3 +236,5 @@ ten.u.dhai	tɛn.u.ðaɪ	-2	tentlé, ukí, táhi	0	n	September	True	tɛn.u.taː.h
 ten.oi.dhai	tɛn.ɔɪ.ðaɪ	-2	tentlé, óhi, táhi	0	n	October	True	tɛn.ɔː.hɪ.taː.hɪ	ten.ó.hi.tá.hi
 ten.ner.ner.tai	tɛn.nɛɾ.nɛɾ.taɪ	-2	tentlé, nertí, nertí, táhi	0	n	November	True	tɛn.nɛɾ.nɛɾ.taː.hɪ	ten.ner.ner.tá.hi
 ten.ner.ó.dhai	tɛn.nɛɾ.ɔː.ðaɪ	-2	tentlé, nertí, óri, táhi	0	n	December	True	tɛn.nɛɾ.ɔː.taː.hɪ	ten.ner.ó.tá.hi
+sen.dai	sɛn.daɪ	-2	senpat, táhi	0	cnt	All	True	sɛn.taː.hɪ	sen.tá.hi
+lé	lɛː	-1	lé	0	n	Piece, part (non-detachable)	False	lɛː	lé

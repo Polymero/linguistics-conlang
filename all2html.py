@@ -62,6 +62,9 @@ for mode in lex_modes:
         else:
             sublex = lex[lex['Orthography'].astype(str).str[0] == alphabet[i]]
 
+        # Sort sublex
+        sublex = sublex.sort_values('Orthography')
+
         # Print section
         if len(sublex.index) != 0:
             f.write(b'<tr>')

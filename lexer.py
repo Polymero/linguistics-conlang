@@ -345,6 +345,9 @@ def evolver(entry, age_i, age_f, lang='IS'):
                     word = word[:-1] + 't'
                 elif word[-1] == 'g':
                     word = word[:-1] + 'k'
+            # 4.6 Dropping of word-final /s/ (unless word too short)
+            if (word[-1] == 's' and len(word) > 2):
+                word = word[:-1]
     # Raise error if language code not recognised
     else:
         raise ValueError('Evolution path not recognised.')
@@ -357,7 +360,7 @@ def evolver(entry, age_i, age_f, lang='IS'):
 #-------------------------------------------------------------------------------
 def add(path, entry, mode='write'):
     '''APPENDS ENTRY TO CORRESPONDING LEXICON'''
-    if mode == 'write'
+    if mode == 'write':
         try:
             lex = pd.read_csv(path, sep=r'\t', engine='python')
         except:
