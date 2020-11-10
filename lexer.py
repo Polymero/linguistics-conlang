@@ -5,7 +5,8 @@ import warnings
 # External
 import numpy as np
 import pandas as pd
-from matplotlib.pyplot import figure, show
+import matplotlib.pyplot as plt
+from operator import itemgetter
 # Matplotlib config
 from matplotlib import rcParams
 rcParams.update({'figure.autolayout': True})
@@ -529,6 +530,72 @@ def evo(path, entry, lang, age_i, age_f):
     pd.set_option('display.max_rows', 999)
     print(evolex)
 
+
+def anl(path):
+    '''RETURNS SOME ANALYTICAL FIGURES FROM THE LEXICON'''
+    # Get lexicon
+    try:
+        lex = pd.read_csv(path, sep=r'\t', engine='python')
+    except:
+        raise ValueError('Error loading CSV.')
+    # PHONEME DISTRIBUTION
+    phons = []
+    for index, series in lex.iterrows():
+        phons += list(series['IPA'])
+    chars, char_cnts = np.unique(phons, return_counts=True)
+    phono_tot = np.sum(char_cnts)
+    print('\nPHONEME DISTRIBUTION')
+    print(chars)
+    print(char_cnts)
+    # Plot
+    fig = plt.figure(figsize=(10,10))
+    fr1 = fig.add_subplot(2,1,1)
+    # Colour function
+    def colour(phon):
+        if phon in ['ɑ', 'a', 'i', 'ɔ', 'o', 'ɛ', 'e', 'u', 'ɪ', 'ʊ']:
+            return 'tab:orange'
+        elif phon in 'lɾʋj':
+            return 'tab:blue'
+        elif phon in 'ʲ':
+            return 'tab:red'
+        else:
+            return 'mediumaquamarine'
+    # Extract keys and values (but ignoring the '.')
+    kys, vls = list(zip(*sorted(list(zip(chars[1:], char_cnts[1:])), key=itemgetter(1), reverse=True)))
+    cls = [colour(i) for i in kys]
+    fr1.bar(list(range(len(vls))), vls / phono_tot, tick_label=kys, color=cls)
+    # Styling
+    top = 1.10*np.max(vls)
+    for i in range(len(fr1.xaxis.get_major_ticks())):
+        tick = fr1.xaxis.get_major_ticks()[i]
+        tick.label.set_fontsize(16)
+        tick.label.set_position((1, vls[i]/top + .085, 0))
+    fr1.set_ylim(0, top / phono_tot)
+    fr1.set_title('(Relative) Phoneme Abundances (Sorted)')
+    fr1.grid(alpha=0.3)
+    # WORD LENGTH (IPA)
+    wlens = [len(i) for i in lex['IPA']]
+    print('\nWORD LENGTHS')
+    print('Average Word Length:', np.mean(wlens))
+    print('Std Word Length    :', np.std(wlens))
+    print('Maximum Word Length:', np.max(wlens))
+    print('Minimum Word Length:', np.min(wlens))
+    # Histogram Plot
+    fr2 = fig.add_subplot(2,1,2)
+    bins = np.array(list(range(min(wlens), max(wlens) + 2, 1))) - 0.5
+    his = fr2.hist(wlens, bins=bins, rwidth=0.8, color='mediumaquamarine')
+    fr2.scatter(np.arange(np.min(wlens), np.max(wlens) + 1), his[0], alpha=0.7, color='r')
+    # Gaussian fit
+    def gauss(x, mu, std):
+        return np.exp(-(x - mu)*(x - mu) / (2 * std*std)) / np.sqrt(2 * np.pi * std*std)
+    xp = np.linspace(0, np.max(wlens)+2, 100)
+    sca = np.max(his[0]) / gauss(np.mean(wlens), np.mean(wlens), np.std(wlens))
+    fr2.plot(xp, gauss(xp, np.mean(wlens), np.std(wlens)) * sca, color='b', alpha=0.3)
+    # Styling
+    fr2.set_xlim(0, np.max(wlens) + 2)
+    fr2.set_title('Word Length Histogram (IPA) (with Gaussian Model)')
+    plt.show()
+
 #-------------------------------------------------------------------------------
 # MODE FUNCTION
 #-------------------------------------------------------------------------------
@@ -554,6 +621,8 @@ elif mode in ['upd', 'update', 'u']:
     upd(path)
 elif mode in ['evo', 'evolve', 'e']:
     evo(path, entry, lang, age_i, age_f)
+elif mode in ['anl', 'analyse', 'analyze', 'a']:
+    anl(path)
 else:
     print('Action mode not recognised, please check your input')
     print('Avalable modes: add, rem, lst, upd, evo')
